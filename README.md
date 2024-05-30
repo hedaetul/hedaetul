@@ -6,7 +6,7 @@
 
 I am a skilled web developer specializing in front-end technologies, with expertise in HTML, CSS, Tailwind, React, Next.js, and Chakra UI. I excel at creating modern, responsive, and user-friendly web interfaces. My proficiency with GitHub ensures effective collaboration and version control. I am passionate about leveraging my skills to deliver high-quality, innovative web solutions and continuously learning to stay updated with the latest industry trends.
 
-Skills: REACT / JS / HTML / CSS / TAILWIND
+Skills: HTML / CSS / TAILWIND / REACT / JAVASCRIPT / TYPESCRIPT 
 
 - 🌱 I’m currently learning REMIX 
 - 👯 I’m looking to collaborate on github,linux 
