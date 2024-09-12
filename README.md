@@ -17,8 +17,12 @@ I am a skilled web developer specializing in front-end technologies, with expert
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hedaetul&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hedaetul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hedaetul&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedaetul)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
