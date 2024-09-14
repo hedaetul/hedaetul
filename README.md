@@ -1,5 +1,5 @@
 <section style="text-align: center;">
-  <img src="./images/luffy-bruh.gif" alt="Web Developer" width="200">
+  <img src="./images/luffy-bruh.gif" alt="Web Developer" width="100%">
   <h1>Hi there 👋, I'm Md Hedaetul Islam</h1>
   <p>
     I am a skilled web developer specializing in front-end technologies, with expertise in 
