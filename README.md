@@ -11,29 +11,16 @@
 </section>
 
 <section align="center">
-  <h2>🌐 Contact Me :</h2>
-  <p width="80%" align="center">
-       <a href="https://discord.gg/matt.hedaetul">
-          <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
-        </a>
-        <a href="https://facebook.com/007.hedaetul">
-           <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
-        </a>
-        <a href="https://instagram.com/matt_hedaetul007">
-            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-        </a>
-        <a href="https://linkedin.com/in/007-hedaetul">
-            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <a href="https://x.com/matt_hedaetul">
-           <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (formerly Twitter)">
-        </a>
-  </p>
-</section>
-
-<section align="center">
-  <h2>💻 Tech Stack</h2>
-  <div width="80%" align="center">
+ <div>
+   <h2 align="center">💻 Tech Stack</h2>
+   <br>
+    <div align="center">
+       <img src="./images/itachi2.gif" width="40%" align="right">
+    </div>
+    </div>
+  <div>
+  <br>
+ <p align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
@@ -44,9 +31,9 @@
     <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </div>
+ </p> 
+<br>
 </section>
-
 <section width="80%" align="center">
   <h2>📊 GitHub Stats</h2>
   <div align="center">
@@ -80,5 +67,9 @@
 </section>
  <br>
 <section width="80%" align="center">
-  <img src="./images/luffy-bruh.gif" width="80%">
+  <h2>💖 ~ Thanks for reading! ~ 💖</h2>
+ <div>
+    <img src="./images/luffy-bruh.gif" width="80%">
+    <img src="./images/toji.gif" width="80%">
+ </div>
 </section>
