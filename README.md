@@ -1,5 +1,5 @@
 <section align="center">
-  <img src="./images/naruto.gif" alt="Web Developer" width="80%">
+  <img src="./images/naruto.gif" alt="Web Developer">
   <h2>Hi there 👋, I'm Md Hedaetul Islam</h2>
   <p>
     I am a skilled web developer specializing in front-end technologies, with expertise in 
@@ -34,7 +34,7 @@
  </p> 
 <br>
 </section>
-<section width="80%" align="center">
+<section align="center">
   <h2>📊 GitHub Stats</h2>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hedaetul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 49%;">
@@ -45,7 +45,7 @@
   <br/>
 </section>
 
-<section width="80%" align="center">
+<section align="center">
   <h2>🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=hedaetul&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </section>
@@ -60,15 +60,15 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=hedaetul&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </section> -->
 
-<section width="80%" align="center">
+<section align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=hedaetul&icon=0&color=0" alt="Visit Count">
   </a>
 </section>
  <br>
-<section width="80%" align="center">
+<section align="center">
   <h2>💖 ~ Thanks for reading! ~ 💖</h2>
  <div>
-    <img src="./images/luffy-bruh.gif" width="80%">
+    <img src="./images/luffy-bruh.gif">
  </div>
 </section>
