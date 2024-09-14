@@ -28,7 +28,6 @@
         <a href="https://x.com/matt_hedaetul">
            <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (formerly Twitter)">
         </a>
-        <img src="./images/itachi.gif" alt="itachi" height="170px" margin-left="50px">
   </p>
 </section>
 
@@ -57,6 +56,10 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hedaetul&theme=tokyonight&hide_border=false" alt="GitHub Streak">
   <br/>
+</section>
+
+<section width="80%" align="center">
+  <img src="./images/pajn.gif" width="80%">
 </section>
 
 <section width="80%" align="center">
