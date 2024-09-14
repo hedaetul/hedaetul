@@ -63,15 +63,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hedaetul&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </section>
 
-<section>
+<!-- <section>
   <h2>✍️ Random Dev Quote</h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</section>
+</section> -->
 
-<section>
+<!-- <section>
   <h2>🔝 Top Contributed Repo</h2>
   <img src="https://github-contributor-stats.vercel.app/api?username=hedaetul&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</section>
+</section> -->
 
 <section style="text-align: center;">
   <a href="https://visitcount.itsvg.in">
