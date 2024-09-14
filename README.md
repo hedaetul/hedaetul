@@ -82,7 +82,7 @@
     <img src="https://visitcount.itsvg.in/api?id=hedaetul&icon=0&color=0" alt="Visit Count">
   </a>
 </section>
-
+ <br>
 <section width="80%" align="center">
   <img src="./images/pajn.gif" width="80%">
 </section>
