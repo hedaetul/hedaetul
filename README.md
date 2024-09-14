@@ -1,5 +1,5 @@
-<section align="center">
-  <img src="./images/luffy-bruh.gif" alt="Web Developer" width="80%">
+<section>
+  <img src="./images/luffy-bruh.gif" alt="Web Developer" width="100%">
   <h1>Hi there 👋, I'm Md Hedaetul Islam</h1>
   <p>
     I am a skilled web developer specializing in front-end technologies, with expertise in 
@@ -10,7 +10,7 @@
   <h3>🌱 I’m currently learning Express.js</h3>
 </section>
 
-<section align="center">
+<section>
   <h2>🌐 Socials</h2>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://discord.gg/matt.hedaetul">
@@ -31,7 +31,7 @@
   </div>
 </section>
 
-<section align="center">
+<section>
   <h2>💻 Tech Stack</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -47,9 +47,9 @@
   </div>
 </section>
 
-<section align="center">
+<section>
   <h2>📊 GitHub Stats</h2>
-  <div>
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hedaetul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 49%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaetul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="max-width: 49%;">
   </div>
@@ -58,7 +58,7 @@
   <br/>
 </section>
 
-<section align="center">
+<section>
   <h2>🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=hedaetul&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </section>
