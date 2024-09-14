@@ -12,7 +12,7 @@
 
 <section align="center">
   <h2>🌐 Contact Me :</h2>
-  <p width="80%" align center>
+  <p width="80%" align="center">
        <a href="https://discord.gg/matt.hedaetul">
           <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
         </a>
@@ -28,7 +28,6 @@
         <a href="https://x.com/matt_hedaetul">
            <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (formerly Twitter)">
         </a>
-        <br>
         <img src="./images/itachi.gif" alt="itachi"   height="170px">
   </p>
 </section>
