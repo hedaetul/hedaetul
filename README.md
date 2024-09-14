@@ -49,16 +49,16 @@
 
 <section>
   <h2>📊 GitHub Stats</h2>
-  <div>
-    <div style="display: flex; justify-content: space-between">
+  <div style="display: flex; justify-content: space-between; gap: 20px;">
+    <div style="display: flex; flex-direction: column; gap: 20px; flex: 1;">
       <img src="https://github-readme-stats.vercel.app/api?username=hedaetul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-      <br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=hedaetul&theme=tokyonight&hide_border=false" alt="GitHub Streak">
     </div>
-    <div>
+    <div style="flex: 1;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaetul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
     </div>
-  </div>
+</div>
+
 </section>
 
 <section>
