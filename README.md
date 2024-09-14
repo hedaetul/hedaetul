@@ -28,7 +28,7 @@
         <a href="https://x.com/matt_hedaetul">
            <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (formerly Twitter)">
         </a>
-        <img src="./images/itachi.gif" alt="itachi" height="170px" align="right">
+        <img src="./images/itachi.gif" alt="itachi" height="170px" margin-left="50px">
   </p>
 </section>
 
