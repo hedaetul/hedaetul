@@ -58,9 +58,7 @@
   <br/>
 </section>
 
-<section width="80%" align="center">
-  <img src="./images/pajn.gif" width="80%">
-</section>
+
 
 <section width="80%" align="center">
   <h2>🏆 GitHub Trophies</h2>
@@ -76,6 +74,10 @@
   <h2>🔝 Top Contributed Repo</h2>
   <img src="https://github-contributor-stats.vercel.app/api?username=hedaetul&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </section> -->
+
+<section width="80%" align="center">
+  <img src="./images/pajn.gif" width="80%">
+</section>
 
 <section width="80%" align="center">
   <a href="https://visitcount.itsvg.in">
