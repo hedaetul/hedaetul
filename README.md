@@ -30,7 +30,7 @@
            <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (formerly Twitter)">
         </a>
     </div>
-    <img src="./images/itachi.gif">
+    <img src="./images/itachi.gif" alt="itachi" width="200px">
   </div>
 </section>
 
