@@ -15,7 +15,7 @@
    <h2 align="center">💻 Tech Stack</h2>
    <br>
     <div align="center">
-       <img src="./images/itachi2.gif" width="40%" align="right">
+       <img src="./images/itachi2.gif" width="50%" align="right">
     </div>
     </div>
   <div>
