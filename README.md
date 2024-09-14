@@ -13,21 +13,24 @@
 <section align="center">
   <h2>🌐 Contact Me :</h2>
   <div width="80%" align="center">
-    <a href="https://discord.gg/matt.hedaetul">
-      <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
-    </a>
-    <a href="https://facebook.com/007.hedaetul">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
-    </a>
-    <a href="https://instagram.com/matt_hedaetul007">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://linkedin.com/in/007-hedaetul">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://x.com/matt_hedaetul">
-      <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (formerly Twitter)">
-    </a>
+    <div>
+       <a href="https://discord.gg/matt.hedaetul">
+          <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
+        </a>
+        <a href="https://facebook.com/007.hedaetul">
+           <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+        </a>
+        <a href="https://instagram.com/matt_hedaetul007">
+            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+        </a>
+        <a href="https://linkedin.com/in/007-hedaetul">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://x.com/matt_hedaetul">
+           <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (formerly Twitter)">
+        </a>
+    </div>
+    <img src="./images/itachi.gif">
   </div>
 </section>
 
