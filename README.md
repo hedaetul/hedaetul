@@ -1,6 +1,6 @@
 <section align="center">
   <img src="./images/luffy-bruh.gif" alt="Web Developer" width="80%">
-  <h1>Hi there 👋, I'm Md Hedaetul Islam</h1>
+  <h2>Hi there 👋, I'm Md Hedaetul Islam</h2>
   <p>
     I am a skilled web developer specializing in front-end technologies, with expertise in 
     <strong>HTML, CSS, Tailwind, React, Next.js, ChakraUI, ShadCdnUi, MUI</strong>. 
