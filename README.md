@@ -1,5 +1,5 @@
-<section>
-  <img src="./images/luffy-bruh.gif" alt="Web Developer" width="100%">
+<section align="center">
+  <img src="./images/luffy-bruh.gif" alt="Web Developer" width="80%">
   <h1>Hi there 👋, I'm Md Hedaetul Islam</h1>
   <p>
     I am a skilled web developer specializing in front-end technologies, with expertise in 
@@ -10,9 +10,9 @@
   <h3>🌱 I’m currently learning Express.js</h3>
 </section>
 
-<section>
-  <h2>🌐 Socials</h2>
-  <div style="display: flex; justify-content: center; gap: 10px;">
+<section align="center">
+  <h2>🌐 Contact Me :</h2>
+  <div width="80%" align="center">
     <a href="https://discord.gg/matt.hedaetul">
       <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
     </a>
@@ -31,9 +31,9 @@
   </div>
 </section>
 
-<section>
+<section align="center">
   <h2>💻 Tech Stack</h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div width="80%" align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
@@ -47,7 +47,7 @@
   </div>
 </section>
 
-<section>
+<section width="80%" align="center">
   <h2>📊 GitHub Stats</h2>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hedaetul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 49%;">
@@ -58,7 +58,7 @@
   <br/>
 </section>
 
-<section>
+<section width="80%" align="center">
   <h2>🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=hedaetul&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </section>
@@ -73,7 +73,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=hedaetul&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </section> -->
 
-<section style="text-align: center;">
+<section width="80%" align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=hedaetul&icon=0&color=0" alt="Visit Count">
   </a>
