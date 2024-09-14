@@ -1,5 +1,5 @@
 <section align="center">
-  <img src="./images/naruto.gif" alt="Web Developer">
+  <img src="./images/naruto.gif" alt="Web Developer" width="100%">
   <h2>Hi there 👋, I'm Md Hedaetul Islam</h2>
   <p>
     I am a skilled web developer specializing in front-end technologies, with expertise in 
@@ -69,6 +69,6 @@
 <section align="center">
   <h2>💖 ~ Thanks for reading! ~ 💖</h2>
  <div>
-    <img src="./images/luffy-bruh.gif">
+    <img src="./images/luffy-bruh.gif" width="100%">
  </div>
 </section>
