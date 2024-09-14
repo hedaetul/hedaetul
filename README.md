@@ -70,6 +70,5 @@
   <h2>💖 ~ Thanks for reading! ~ 💖</h2>
  <div>
     <img src="./images/luffy-bruh.gif" width="80%">
-    <img src="./images/toji.gif" width="80%">
  </div>
 </section>
