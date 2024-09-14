@@ -1,6 +1,6 @@
 <section align="center">
   <img src="./images/naruto.gif" alt="Web Developer" width="100%">
-  <h1>Hi there 👋, I'm Md Hedaetul Islam</h1>
+  <h1>Hi there 👋, I'm Hedaetul Islam</h1>
   <p>
     I am a skilled web developer specializing in front-end technologies, with expertise in 
     <strong>HTML, CSS, Tailwind, React, Next.js, ChakraUI, ShadCdnUi, MUI</strong>. 
