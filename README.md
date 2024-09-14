@@ -48,18 +48,14 @@
 </section>
 
 <section>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=hedaetul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 49%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaetul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="max-width: 49%;">
-</div>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hedaetul&theme=tokyonight&hide_border=false" alt="GitHub Streak">
-
-<br/>
-
+  <h2>📊 GitHub Stats</h2>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=hedaetul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 49%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedaetul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="max-width: 49%;">
+  </div>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hedaetul&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+  <br/>
 </section>
 
 <section>
