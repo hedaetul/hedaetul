@@ -7,7 +7,7 @@
     I excel at creating modern, responsive, and user-friendly web interfaces. My proficiency with GitHub ensures effective collaboration and version control. 
     I am passionate about leveraging my skills to deliver high-quality, innovative web solutions and continuously learning to stay updated with the latest industry trends.
   </p>
-  <h3>🌱 I’m currently learning Express.js</h3>
+  <h3>🌱 I’m currently learning MySQL🐋</h3>
 </section>
 
 <section align="center">
