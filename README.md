@@ -3,7 +3,7 @@
   <h1>Hi there 👋, I'm Hedaetul Islam</h1>
   <p>
     I am a skilled web developer specializing in front-end technologies, with expertise in 
-    <strong>HTML, CSS, Tailwind, React, Next.js, ChakraUI, ShadCdnUi, MUI</strong>. 
+    <strong>HTML, CSS, Tailwind, React, Next.js, ChakraUI, ShadCnUi, MUI</strong>. 
     I excel at creating modern, responsive, and user-friendly web interfaces. My proficiency with GitHub ensures effective collaboration and version control. 
     I am passionate about leveraging my skills to deliver high-quality, innovative web solutions and continuously learning to stay updated with the latest industry trends.
   </p>
