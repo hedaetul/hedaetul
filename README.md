@@ -9,7 +9,7 @@
     I am passionate about leveraging my skills to deliver high-quality, innovative web and mobile solutions while continuously learning to stay updated with the latest industry trends.
 </p>
 
-  <h3>🌱 I’m currently learning PostgreSQL🐘</h3>
+  <h3>🌱 I’m currently learning Flutter</h3>
 </section>
 
 <section align="center">
@@ -32,6 +32,9 @@
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
+   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
  </p> 
