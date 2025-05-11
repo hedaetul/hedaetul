@@ -2,11 +2,9 @@
   <img src="./images/naruto.gif" alt="Web Developer" width="100%">
   <h1>Hi there 👋, I'm Hedaetul Islam</h1>
 <p>
-    I am a skilled web and mobile developer specializing in front-end technologies and cross-platform app development, with expertise in 
-    <strong>HTML, CSS, Tailwind, ReactJs, Next.js, Flutter, Dart, Firebase, API integration</strong>. 
-    I excel at creating modern, responsive, and user-friendly web interfaces, as well as high-performance Android mobile applications. 
-    My proficiency with GitHub ensures effective collaboration and version control. 
-    I am passionate about leveraging my skills to deliver high-quality, innovative web and mobile solutions while continuously learning to stay updated with the latest industry trends.
+    I am a web and mobile developer with a strong focus on front-end technologies and scalable application architecture. I build modern, responsive websites using HTML, CSS, Tailwind CSS, React, and Next.js.
+For mobile, I specialize in Android app development with Flutter and Dart, leveraging state management solutions like Riverpod, BLoC, and GetX to implement clean, maintainable design patterns.
+My experience includes Firebase integration, REST API handling, and collaborative development using Git and GitHub. I am committed to delivering high-quality, user-centric digital solutions while staying current with evolving technologies.
 </p>
 
   <h3>🌱 I’m currently learning Flutter</h3>
